@@ -43,7 +43,7 @@
     "criminal": true,
     "dreamCars": [
       {
-        "carName": "Dodge ",
+        "carName": "Dodge",
         "engineCapacity": "5L",
         "model": "Challenger"
       },

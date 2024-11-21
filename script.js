@@ -8,12 +8,27 @@ const  fetchData = async () => {
     friends = data
 
     friends.forEach(item => {
-        // console.log(item.firstName);
-        return `my name is ${item.firstName} my surname is ${item.lastName}, on my free time I like to enjoy my hobby which is ${item.favHobby}. My criminal status is ${item.criminal}`
+        console.log(`my name is ${item.firstName} my surname is ${item.lastName}, on my free time I like to enjoy my hobby which is ${item.favHobby}. In regard of my criminal record, ${item.criminal?"yes I have been convicted before but it was not my fault the other person started me":"I have been a good person."}`);
+    
     })
+    
+    let filtered = friends.filter(friend => friend.firstName == "Sivuyile")
+    // console.log(filtered);
+
+    let notCriminals = friends.filter(friend => friend.criminal == false)
+    // console.log(notCriminals);
+    
+    for (let k = 0; k < friends.length; k++) {
+        for (let j = 0; j < friends[k].dreamCars.length; j++) {
+            if (friends[k].dreamCars[j] === "Lamborghini") {
+                console.log(friends[k]);
+                
+            }
+        }
 
 }
 
 
+}
 
 fetchData() 
