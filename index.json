@@ -1,0 +1,111 @@
+
+[
+  {
+    "firstName": "Sivuyile",
+    "lastName": "Mtwetwe",
+    "favHobbie": "Coding",
+    "criminal": false,
+    "dreamCars": [
+      {
+        "carName": "Ferrari 250 GT",
+        "engineCapacity": 3,
+        "model": "Coupe"
+      },
+      {
+        "carName": "Lamborghini",
+        "engineCapacity": 3,
+        "model": "1980 Lamborghini Athon"
+      }
+    ]
+  },
+  {
+    "firstName": "Avela",
+    "lastName": "Nikani",
+    "favHobby": "Rugby",
+    "criminal": true,
+    "dreamCars": [
+      {
+        "carName": "Mercedes Benz",
+        "engineCapacity": 2,
+        "model": "A200"
+      },
+      {
+        "carName": "BMW",
+        "engineCapacity": 2,
+        "model": "118i"
+      }
+    ]
+  },
+  {
+    "firstName": " Lithemba",
+    "lastName": "Mlenze",
+    "favHobby": "Gaming",
+    "criminal": true,
+    "dreamCars": [
+      {
+        "carName": "Dodge ",
+        "engineCapacity": "5L",
+        "model": "Challenger"
+      },
+      {
+        "carName": "Mercedes-AMG GT  ",
+        "engineCapacity": "3,982 L",
+        "model": " Coupe"
+      }
+    ]
+  },
+  {
+    "firstName": "Zenande",
+    "lastName": "Nocanda",
+    "hobbies": "Sleeping",
+    "criminal": false,
+    "dreamCars": [
+      {
+        "carName": "Hilux",
+        "engineCapacity": "2755cc",
+        "model": "GR Sport"
+      },
+      {
+        "carName": "Tiguan",
+        "engineCapacity": "1.4",
+        "model": "GR Sport"
+      }
+    ]
+  },
+  {
+    "firstName": "Asiphesona",
+    "lastName": "Dumzela",
+    "favHobby": "Reading",
+    "criminal": false,
+    "dreamCars": [
+      {
+        "carName": "BMW",
+        "engineCapacity": 6,
+        "model": "GT"
+      },
+      {
+        "carName": "Mercedes-Benz",
+        "engineCapacity": 6,
+        "model": "s-class coupe"
+      }
+    ]
+  },
+  {
+    "firstName": "Siyavuya",
+    "lastname": "Khohlani",
+    "favHobby": "Playing games",
+    "criminal": false,
+    "dreamCars": [
+      {
+        "carName": "Audi",
+        "engineCapacity": 4,
+        "model": "A6 e-Tron"
+      },
+      {
+        "carName": "Mercedes-Benz",
+        "engineCapacity": 3,
+        "model": "EQG"
+      }
+    ]
+  }
+]
