@@ -3,7 +3,7 @@
   {
     "firstName": "Sivuyile",
     "lastName": "Mtwetwe",
-    "favHobbie": "Coding",
+    "favHobby": "Coding",
     "criminal": false,
     "dreamCars": [
       {
@@ -57,7 +57,7 @@
   {
     "firstName": "Zenande",
     "lastName": "Nocanda",
-    "hobbies": "Sleeping",
+    "favHobby": "Sleeping",
     "criminal": false,
     "dreamCars": [
       {
