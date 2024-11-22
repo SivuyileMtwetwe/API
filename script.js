@@ -20,7 +20,7 @@ const  fetchData = async () => {
     
     for (let k = 0; k < friends.length; k++) {
         for (let j = 0; j < friends[k].dreamCars.length; j++) {
-            if (friends[k].dreamCars[j] === "Lamborghini") {
+            if (friends[k].dreamCars[j].carName === "Lamborghini" || friends[k].dreamCars[j].carName === "Dodge") {
                 console.log(friends[k]);
                 
             }
